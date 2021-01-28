@@ -1,0 +1,10 @@
+x=1j
+print(x)
+print(type(x))
+y=complex(20,44)
+print(y)
+z=3+5j
+print(z)
+print(type(z))
+a=int(y.real)
+print(a)

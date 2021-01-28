@@ -1,0 +1,10 @@
+a=10
+A=20
+age=50
+Age=60
+AGE=70
+print(a)
+print(A)
+print(age)
+print(Age)
+print(AGE)

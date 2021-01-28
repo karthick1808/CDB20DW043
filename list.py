@@ -1,0 +1,11 @@
+demo=[1,2,3,4,5,6,7,8,9]
+print(demo)
+print(demo[0])
+print(demo[1])
+print(demo[2])
+print(demo[3])
+print(demo[4])
+print(demo[5])
+print(demo[6])
+print(len(demo))
+print(type(demo))
